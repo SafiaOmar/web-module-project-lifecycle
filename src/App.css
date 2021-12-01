@@ -1,0 +1,16 @@
+.App {
+  text-align: center;
+}
+
+.followers-wrapper {
+  display: flex;
+  flex-flow: row wrap;
+  padding: 16px;
+  justify-content: center;
+}
+.follower-card {
+  width: 200px;
+  margin: 16px 32px;
+  padding: 16px;
+  box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16);
+}
